@@ -1,5 +1,5 @@
 {
-  "name": "RestAPI_MongoDB",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Food Detection app",
   "main": "server.js",
